@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/ColorBoxWithAA_Font/src/MyColorBoxAA_Font_PKG/myMainClass.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="MyColorBoxAA_Font_PKG.myMainClass"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ColorBoxWithAA_Font"/>
+</launchConfiguration>
