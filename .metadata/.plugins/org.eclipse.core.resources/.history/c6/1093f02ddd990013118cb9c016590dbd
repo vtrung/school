@@ -1,0 +1,18 @@
+package c10p19;
+
+import java.awt.*;
+
+import javax.swing.JComponent;
+
+public class houseComponent extends JComponent{
+	
+	public void paintComponent(Graphics g) {
+		
+		g.fillRect(0,500,300,100);
+		g.drawLine(50,50,150,150);
+		
+		
+	}
+	
+	
+}

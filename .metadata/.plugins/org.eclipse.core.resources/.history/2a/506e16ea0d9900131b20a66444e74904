@@ -1,0 +1,20 @@
+package format;
+
+public class format {
+	public static String formatString = "";
+	public static int i = 5;
+	public static double d = 12.345678;
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//formatString = String.format("%8d", i); // 8 spaces
+		//formatString = String.format("%08d", i); // i want leading zeros "0"
+		//formatString = String.format("%+08d", i); // include signs always "+"
+		//formatString = String.format("%8.3f", d); // 3 decimal points
+		//formatString = String.format("%08.3f", d); // include zeros
+		formatString = String.format("%+08.3f", d);
+		System.out.println(formatString);
+	}
+
+}

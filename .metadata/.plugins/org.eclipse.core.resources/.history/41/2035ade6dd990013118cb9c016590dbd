@@ -1,0 +1,17 @@
+package c10p19;
+
+import javax.swing.JFrame;
+import javax.swing.JComponent;
+
+public class houseViewer {
+	
+	public static void main(String[] args) {
+		JFrame f = new JFrame(); 
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); 
+		JComponent d = new houseComponent();
+		f.add(d); 
+		f.setSize(600,600); // set the size of the window to be 600x600 pixels.
+		f.setVisible(true);
+	}
+		
+}

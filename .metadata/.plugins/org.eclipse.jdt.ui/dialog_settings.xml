@@ -14,10 +14,100 @@
 	</section>
 	<section name="JavaElementSearchActions">
 	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="3" key="pageIndex"/>
+	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
 	<section name="NewClassWizardPage">
 		<item value="false" key="create_constructor"/>
 		<item value="true" key="create_unimplemented"/>
+	</section>
+	<section name="javadoc">
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="false" key="notree"/>
+		<item value="true" key="splitindex"/>
+		<item value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/javadoc" key="javadoc_command_history"/>
+		<item value="true" key="use"/>
+		<item value="false" key="nonavbar"/>
+		<item value="public" key="access"/>
+		<item value="true" key="version"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="/Users/svingt/Desktop/java/ColorBox/doc" key="destdir"/>
+		<item value="true" key="author"/>
+		<item value="" key="docletname"/>
+		<item value="1.6" key="source"/>
+		<item value="false" key="openinbrowser"/>
+		<item value="false" key="noindex"/>
+		<item value="" key="docletpath"/>
+		<item value="/Users/svingt/Desktop/java/ColorBox/javadoc.xml" key="antpath"/>
+		<item value="true" key="fromStandard"/>
+		<section name="projects">
+			<section name="DrawingEnvironment">
+				<item value="/Users/svingt/Desktop/java/DrawingEnvironment/doc" key="destdir"/>
+				<item value="" key="href"/>
+				<item value="/Users/svingt/Desktop/java/DrawingEnvironment/javadoc.xml" key="antpath"/>
+			</section>
+			<section name="activity2">
+				<item value="/Users/svingt/Desktop/java/activity2/doc" key="destdir"/>
+				<item value="" key="href"/>
+				<item value="/Users/svingt/Desktop/java/activity2/javadoc.xml" key="antpath"/>
+			</section>
+			<section name="RemoteSystemsTempFiles">
+				<item value="/Users/svingt/Desktop/java/RemoteSystemsTempFiles/doc" key="destdir"/>
+				<item value="" key="href"/>
+				<item value="/Users/svingt/Desktop/java/RemoteSystemsTempFiles/javadoc.xml" key="antpath"/>
+			</section>
+			<section name="CS016_assignment4">
+				<item value="/Users/svingt/Desktop/java/CS016_assignment4/doc" key="destdir"/>
+				<item value="" key="href"/>
+				<item value="/Users/svingt/Desktop/java/CS016_assignment4/javadoc.xml" key="antpath"/>
+			</section>
+			<section name="FinalProject">
+				<item value="/Users/svingt/Desktop/java/FinalProject/doc" key="destdir"/>
+				<item value="" key="href"/>
+				<item value="/Users/svingt/Desktop/java/FinalProject/javadoc.xml" key="antpath"/>
+			</section>
+			<section name="VingProject">
+				<item value="/Users/svingt/Desktop/java/VingProject/doc" key="destdir"/>
+				<item value="" key="href"/>
+				<item value="/Users/svingt/Desktop/java/VingProject/javadoc.xml" key="antpath"/>
+			</section>
+			<section name="assignment5">
+				<item value="/Users/svingt/Desktop/java/assignment5/doc" key="destdir"/>
+				<item value="" key="href"/>
+				<item value="/Users/svingt/Desktop/java/assignment5/javadoc.xml" key="antpath"/>
+			</section>
+			<section name="Lab2">
+				<item value="/Users/svingt/Desktop/java/Lab2/doc" key="destdir"/>
+				<item value="" key="href"/>
+				<item value="/Users/svingt/Desktop/java/Lab2/javadoc.xml" key="antpath"/>
+			</section>
+			<section name="hello_world">
+				<item value="/Users/svingt/Desktop/java/hello_world/doc" key="destdir"/>
+				<item value="" key="href"/>
+				<item value="/Users/svingt/Desktop/java/hello_world/javadoc.xml" key="antpath"/>
+			</section>
+			<section name="Quiz3">
+				<item value="/Users/svingt/Desktop/java/Quiz3/doc" key="destdir"/>
+				<item value="" key="href"/>
+				<item value="/Users/svingt/Desktop/java/Quiz3/javadoc.xml" key="antpath"/>
+			</section>
+			<section name="ColorBox">
+				<item value="/Users/svingt/Desktop/java/ColorBox/doc" key="destdir"/>
+				<item value="" key="href"/>
+				<item value="/Users/svingt/Desktop/java/ColorBox/javadoc.xml" key="antpath"/>
+			</section>
+		</section>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item value="600" key="DIALOG_WIDTH"/>
+		<item value="-18" key="DIALOG_Y_ORIGIN"/>
+		<item value="145" key="DIALOG_X_ORIGIN"/>
+		<item value="582" key="DIALOG_HEIGHT"/>
+		<item value="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="NewPackageWizardPage">
+		<item value="false" key="create_package_info_java"/>
 	</section>
 </section>

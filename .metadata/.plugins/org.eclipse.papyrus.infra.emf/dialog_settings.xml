@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.papyrus.infra.emf.customizationManager">
+		<item value="true" key="platform:/plugin/org.eclipse.papyrus.infra.gmfdiag.modelexplorer/resources/PapyrusNotationFacet.uiCustom"/>
+		<item value="true" key="platform:/plugin/org.eclipse.papyrus.customization.properties/UICustom/ui.uiCustom"/>
+		<item value="true" key="platform:/plugin/org.eclipse.papyrus.uml.modelexplorer/resource/SimpleUML.uiCustom"/>
+		<item value="false" key="platform:/plugin/org.eclipse.papyrus.sysml.table.requirement/resources/table_UML_Class_hideAllClassFeatures.uiCustom"/>
+		<item value="false" key="platform:/plugin/org.eclipse.papyrus.infra.table.common/resources/table_Ecore_hideEAnnotationFeature.uiCustom"/>
+		<item value="true" key="platform:/plugin/org.eclipse.papyrus.infra.constraints/custom/constraints.uiCustom"/>
+		<item value="false" key="platform:/plugin/org.eclipse.papyrus.infra.gmfdiag.css.model/Model/StyleSheets.uiCustom"/>
+		<item value="false" key="platform:/plugin/org.eclipse.papyrus.customization.paletteconfiguration/facet/PaletteConfiguration.uiCustom"/>
+		<item value="true" key="platform:/plugin/org.eclipse.papyrus.uml.modelexplorer/resource/UMLPapyrusDefaultBrowserCustomization.uiCustom"/>
+		<item value="true" key="platform:/plugin/org.eclipse.papyrus.uml.modelexplorer/resource/NotationCustomization.uiCustom"/>
+		<item value="true" key="platform:/plugin/org.eclipse.papyrus.infra.gmfdiag.modelexplorer/resources/PapyrusNotation.uiCustom"/>
+		<item value="true" key="platform:/plugin/org.eclipse.papyrus.uml.modelexplorer/resource/UMLFacetDefaultBrowserCustomization.uiCustom"/>
+		<item value="true" key="platform:/plugin/org.eclipse.papyrus.customization.properties/UICustom/environment.uiCustom"/>
+		<item value="false" key="platform:/plugin/org.eclipse.papyrus.views.modelexplorer/resources/PapyrusEcoreBrowser.uiCustom"/>
+		<item value="true" key="platform:/plugin/org.eclipse.papyrus.customization.properties/UICustom/context.uiCustom"/>
+		<item value="true" key="platform:/plugin/org.eclipse.papyrus.sysml.modelexplorer/resources/SysMLDefaultExplorerCustomization.uiCustom"/>
+		<item value="true" key="platform:/plugin/org.eclipse.papyrus.infra.table.modelexplorer/resources/PapyrusTableInstanceCustomization.uiCustom"/>
+		<item value="false" key="platform:/plugin/org.eclipse.papyrus.sysml.table.allocation/resources/table_SysML_Allocation_showOnlyClientAndSupplier.uiCustom"/>
+		<item value="true" key="platform:/plugin/org.eclipse.papyrus.infra.table.modelexplorer/resources/PapyrusTableFacetCustomization.uiCustom"/>
+		<item value="true" key="platform:/plugin/org.eclipse.papyrus.views.modelexplorer/resources/PapyrusPages.uiCustom"/>
+	</section>
+</section>

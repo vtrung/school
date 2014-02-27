@@ -1,0 +1,21 @@
+package format;
+
+public class format {
+	public static String formatString = "";
+	public static int i = -5;
+	public static double d = 12.345678;
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//formatString = String.format("%8d", i); // 8 spaces
+		formatString = String.format("%08d", i); // i want leading zeros
+		//formatString = String.format("%+08d", i);
+		//formatString = String.format("%8.3f", i);
+		//formatString = String.format("%08.3f", i);
+		//formatString = String.format("%08f", i);
+		//formatString = String.format("%+08.3f", i);
+		System.out.println(formatString);
+	}
+
+}

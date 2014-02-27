@@ -1,0 +1,18 @@
+package c10p19;
+
+import javax.swing.JFrame;
+
+
+public class houseViewer {
+	
+	public static void main(String[] args) {
+		JFrame f = new JFrame(); // create a window and put some text in title bar. Assign this new JFrame to the variable f.
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // make sure if the user clicks on the top right "x" in the window, the window closes.
+		houseComponent d = new houseComponent(); // create a myDraw object. This line declares and instantiates a MyDraw object and assigns this new object to the variable d.
+		f.add(d);  // now add this newly created MyDraw object (which we have assigned to the variable d) to the Jframe we created (assigned to the variable f).
+		f.setSize(600,600); // set the size of the window to be 600x600 pixels.
+		f.setVisible(true);
+	}
+	
+		
+}

@@ -1,0 +1,18 @@
+package c9p17;
+
+public class ShortWordFilter implements Filter {
+	
+	public ShortWordFilter(){
+	}
+	
+	public ShortWordFilter(Filter Object) {
+		accept(Object);
+	}
+	
+	public boolean accept(Object x){
+		return true;
+	}
+	
+		
+	
+}

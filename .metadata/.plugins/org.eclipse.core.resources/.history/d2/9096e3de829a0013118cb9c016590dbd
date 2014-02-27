@@ -1,0 +1,21 @@
+package c9p17;
+
+public class ShortWordFilter implements Filter {
+	
+	private int limit = 5;
+	
+	public ShortWordFilter(){
+	}
+	
+	public ShortWordFilter(Filter Object) {
+		accept(Object);
+	}
+	
+	public boolean accept(Object x){
+		if (((Word)x).get_word().length() > limit){
+			return false;
+		} else {
+		return true;
+		}
+	}
+}

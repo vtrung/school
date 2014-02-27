@@ -1,0 +1,20 @@
+package c10p30;
+
+public class Bridge {
+	
+	private String bridgeName = "";
+	private int bridgeLength = 0;
+	
+	public Bridge(String name, int length){
+		bridgeName = name;
+		bridgeLength = length;
+	}
+	
+	public int getLength(){
+		return bridgeLength;
+	}
+	
+	public String getName(){
+		return bridgeName;
+	}
+}

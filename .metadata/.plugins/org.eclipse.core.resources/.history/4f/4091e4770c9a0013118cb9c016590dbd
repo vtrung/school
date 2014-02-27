@@ -1,0 +1,29 @@
+package c9p17;
+
+public class Word implements Filter{
+
+	private String newWord = "";
+	
+	public Word(){
+		newWord = "";
+	}
+	
+	public Word(String aWord){
+		newWord = aWord;
+	}
+	
+	public boolean accept(Object x) {
+		// TODO Auto-generated method stub
+		if(newWord.length() > 5){
+			return false;
+		} else {
+			return true;
+		}
+	}
+	
+	public void print_word(){
+		System.out.println(newWord);
+	}
+
+	
+}

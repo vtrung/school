@@ -1,0 +1,15 @@
+package c10p30;
+
+import java.awt.Graphics;
+import javax.swing.JComponent;
+
+public class barChartComponent extends JComponent {
+
+	public void paintComponent(Graphics g) {
+		
+		g.drawString("Bridge", 50,50);
+		g.drawString("Length", 150,50);
+		g.fillRect(150,100,300,25);
+		
+	}
+}

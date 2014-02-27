@@ -1,0 +1,19 @@
+package c10p30;
+
+import javax.swing.JComponent;
+import javax.swing.JFrame;
+
+public class barChartViewer {
+
+	public static void main(String[] args) {
+		JFrame f = new JFrame(); 
+		final int WIDTH = 700;
+		final int HEIGHT = 400;
+		
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); 
+		JComponent d = new barChartComponent();
+		f.add(d); 
+		f.setSize(WIDTH,HEIGHT); 
+		f.setVisible(true);
+	}
+}
